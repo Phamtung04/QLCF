@@ -1,0 +1,4 @@
+/src/layout/MainLayout/Header/SearchSection/*
+/src/services/*
+src/components/HDTableDymanic.tsx
+node-modules

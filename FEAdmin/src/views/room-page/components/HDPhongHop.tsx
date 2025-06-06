@@ -1,0 +1,24 @@
+import MainCard from 'ui-component/cards/MainCard';
+import { Box, Grid, Typography } from '@mui/material';
+import { gridSpacing } from 'store/constant';
+import { useNavigate } from 'react-router-dom';
+import HDDanhSachBan from './HDDanhSachBan';
+
+const HDPhongHop = () => {
+    const navigate = useNavigate();
+    return (
+        <>
+            <MainCard content={false} sx={{ p: 4, mb: 8 }}>
+                <Box sx={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+                    <Grid container spacing={gridSpacing}>
+                        <Grid item xs={12}>
+                            <HDDanhSachBan />
+                        </Grid>
+                    </Grid>
+                </Box>
+            </MainCard>
+        </>
+    );
+};
+
+export default HDPhongHop;
