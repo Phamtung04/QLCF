@@ -1,0 +1,1520 @@
+[
+    {
+     "COUNTRY": "JP",
+     "COUNTRY_DESC": "JAPAN",
+     "REGION": "ES",
+     "CCY": "JPY"
+    },
+    {
+     "COUNTRY": "SG",
+     "COUNTRY_DESC": "SINGAPORE",
+     "REGION": "WS",
+     "CCY": "SGD"
+    },
+    {
+     "COUNTRY": "US",
+     "COUNTRY_DESC": "UNITED STATES",
+     "REGION": "NM",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "VN",
+     "COUNTRY_DESC": "VIET NAM",
+     "REGION": "SS",
+     "CCY": "VND"
+    },
+    {
+     "COUNTRY": "DE",
+     "COUNTRY_DESC": "GERMANY",
+     "REGION": "WE",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "IT",
+     "COUNTRY_DESC": "ITALY",
+     "REGION": "SE",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "AU",
+     "COUNTRY_DESC": "AUSTRALIA",
+     "REGION": "AU",
+     "CCY": "AUD"
+    },
+    {
+     "COUNTRY": "GB",
+     "COUNTRY_DESC": "UNITED KINGDOM",
+     "REGION": "NE",
+     "CCY": "GBP"
+    },
+    {
+     "COUNTRY": "BI",
+     "COUNTRY_DESC": "BURUNDI",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CN",
+     "COUNTRY_DESC": "CHINA",
+     "REGION": "ES",
+     "CCY": "CNY"
+    },
+    {
+     "COUNTRY": "FR",
+     "COUNTRY_DESC": "FRANCE",
+     "REGION": "NE",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "CA",
+     "COUNTRY_DESC": "CANADA",
+     "REGION": "NM",
+     "CCY": "CAD"
+    },
+    {
+     "COUNTRY": "SW",
+     "COUNTRY_DESC": "SWITZERLAND_HUY",
+     "REGION": "EE",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "KR",
+     "COUNTRY_DESC": "KOREA",
+     "REGION": "ES",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TH",
+     "COUNTRY_DESC": "THAILAND",
+     "REGION": "TH",
+     "CCY": "THB"
+    },
+    {
+     "COUNTRY": "CE",
+     "COUNTRY_DESC": "CRIMEAN REGION OF UKRAINE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BK",
+     "COUNTRY_DESC": "BALKANS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AF",
+     "COUNTRY_DESC": "AFGHANISTAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AX",
+     "COUNTRY_DESC": "ALAND ISLANDS",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "AL",
+     "COUNTRY_DESC": "ALBANIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "DZ",
+     "COUNTRY_DESC": "ALGERIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AS",
+     "COUNTRY_DESC": "AMERICAN SAMOA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AD",
+     "COUNTRY_DESC": "ANDORRA",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "AO",
+     "COUNTRY_DESC": "ANGOLA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AI",
+     "COUNTRY_DESC": "ANGUILLA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AQ",
+     "COUNTRY_DESC": "ANTARCTICA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AG",
+     "COUNTRY_DESC": "ANTIGUA AND BARBUDA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AR",
+     "COUNTRY_DESC": "ARGENTINA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AM",
+     "COUNTRY_DESC": "ARMENIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AW",
+     "COUNTRY_DESC": "ARUBA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AT",
+     "COUNTRY_DESC": "AUSTRIA",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "AZ",
+     "COUNTRY_DESC": "AZERBAIJAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BS",
+     "COUNTRY_DESC": "BAHAMAS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BH",
+     "COUNTRY_DESC": "BAHRAIN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BD",
+     "COUNTRY_DESC": "BANGLADESH",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BB",
+     "COUNTRY_DESC": "BARBADOS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BY",
+     "COUNTRY_DESC": "BELARUS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BE",
+     "COUNTRY_DESC": "BELGIUM",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "BZ",
+     "COUNTRY_DESC": "BELIZE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BJ",
+     "COUNTRY_DESC": "BENIN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BM",
+     "COUNTRY_DESC": "BERMUDA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BT",
+     "COUNTRY_DESC": "BHUTAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BO",
+     "COUNTRY_DESC": "BOLIVIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BQ",
+     "COUNTRY_DESC": "BONAIRE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BA",
+     "COUNTRY_DESC": "BOSNIA AND HERZEGOVINA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BW",
+     "COUNTRY_DESC": "BOTSWANA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BV",
+     "COUNTRY_DESC": "BOUVET ISLAND",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BR",
+     "COUNTRY_DESC": "BRAZIL",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "IO",
+     "COUNTRY_DESC": "BRITISH INDIAN OCEAN TERRITORY",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BN",
+     "COUNTRY_DESC": "BRUNEI DARUSSALAM",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BG",
+     "COUNTRY_DESC": "BULGARIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BF",
+     "COUNTRY_DESC": "BURKINA FASO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "KH",
+     "COUNTRY_DESC": "CAMBODIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CM",
+     "COUNTRY_DESC": "CAMEROON",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CV",
+     "COUNTRY_DESC": "CAPE VERDE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "KY",
+     "COUNTRY_DESC": "CAYMAN ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CF",
+     "COUNTRY_DESC": "CENTRAL AFRICAN REPUBLIC",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TD",
+     "COUNTRY_DESC": "CHAD",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CL",
+     "COUNTRY_DESC": "CHILE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CX",
+     "COUNTRY_DESC": "CHRISTMAS ISLAND",
+     "REGION": "TH",
+     "CCY": "AUD"
+    },
+    {
+     "COUNTRY": "CC",
+     "COUNTRY_DESC": "COCOS ISLANDS",
+     "REGION": "TH",
+     "CCY": "AUD"
+    },
+    {
+     "COUNTRY": "CO",
+     "COUNTRY_DESC": "COLOMBIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "KM",
+     "COUNTRY_DESC": "COMOROS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CG",
+     "COUNTRY_DESC": "REPUBLIC OF THE CONGO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CD",
+     "COUNTRY_DESC": "CONGO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CK",
+     "COUNTRY_DESC": "COOK ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CR",
+     "COUNTRY_DESC": "COSTA RICA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CI",
+     "COUNTRY_DESC": "COTE DIVOIRE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "HR",
+     "COUNTRY_DESC": "CROATIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CU",
+     "COUNTRY_DESC": "CUBA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CW",
+     "COUNTRY_DESC": "CURACAO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CY",
+     "COUNTRY_DESC": "CYPRUS",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "CZ",
+     "COUNTRY_DESC": "CZECH",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "DK",
+     "COUNTRY_DESC": "DENMARK",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "DJ",
+     "COUNTRY_DESC": "DJIBOUTI",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "DM",
+     "COUNTRY_DESC": "DOMINICA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "DO",
+     "COUNTRY_DESC": "DOMINICAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "EC",
+     "COUNTRY_DESC": "ECUADOR",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "EG",
+     "COUNTRY_DESC": "EGYPT",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SV",
+     "COUNTRY_DESC": "EL SALVADOR",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GQ",
+     "COUNTRY_DESC": "EQUATORIAL GUINEA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "ER",
+     "COUNTRY_DESC": "ERITREA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "EE",
+     "COUNTRY_DESC": "ESTONIA",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "ET",
+     "COUNTRY_DESC": "ETHIOPIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "FK",
+     "COUNTRY_DESC": "FALKLAND ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "FO",
+     "COUNTRY_DESC": "FAROE ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "FJ",
+     "COUNTRY_DESC": "FIJI",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "FI",
+     "COUNTRY_DESC": "FINLAND",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "GF",
+     "COUNTRY_DESC": "FRENCH GUIANA",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "PF",
+     "COUNTRY_DESC": "FRENCH POLYNESIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TF",
+     "COUNTRY_DESC": "FRENCH SOUTHERN TERRITORIES",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "GA",
+     "COUNTRY_DESC": "GABON",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GM",
+     "COUNTRY_DESC": "GAMBIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GE",
+     "COUNTRY_DESC": "GEORGIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GH",
+     "COUNTRY_DESC": "GHANA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GI",
+     "COUNTRY_DESC": "GIBRALTAR",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GR",
+     "COUNTRY_DESC": "GREECE",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "GL",
+     "COUNTRY_DESC": "GREENLAND",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GD",
+     "COUNTRY_DESC": "GRENADA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GP",
+     "COUNTRY_DESC": "GUADELOUPE",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "GU",
+     "COUNTRY_DESC": "GUAM",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GT",
+     "COUNTRY_DESC": "GUATEMALA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GG",
+     "COUNTRY_DESC": "GUERNSEY",
+     "REGION": "TH",
+     "CCY": "GBP"
+    },
+    {
+     "COUNTRY": "GN",
+     "COUNTRY_DESC": "GUINEA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GW",
+     "COUNTRY_DESC": "GUINEA-BISSAU",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GY",
+     "COUNTRY_DESC": "GUYANA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "HT",
+     "COUNTRY_DESC": "HAITI",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "HM",
+     "COUNTRY_DESC": "HEARD AND MCDONALD ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "VA",
+     "COUNTRY_DESC": "HOLY SEE",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "HN",
+     "COUNTRY_DESC": "HONDURAS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "HK",
+     "COUNTRY_DESC": "HONG KONG",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "HU",
+     "COUNTRY_DESC": "HUNGARY",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "IS",
+     "COUNTRY_DESC": "ICELAND",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "IN",
+     "COUNTRY_DESC": "INDIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "ID",
+     "COUNTRY_DESC": "INDONESIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "IR",
+     "COUNTRY_DESC": "IRAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "IQ",
+     "COUNTRY_DESC": "IRAQ",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "IE",
+     "COUNTRY_DESC": "IRELAND",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "IM",
+     "COUNTRY_DESC": "ISLE OF MAN",
+     "REGION": "TH",
+     "CCY": "GBP"
+    },
+    {
+     "COUNTRY": "IL",
+     "COUNTRY_DESC": "ISRAEL",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "JM",
+     "COUNTRY_DESC": "JAMAICA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "JE",
+     "COUNTRY_DESC": "JERSEY, C.I.",
+     "REGION": "TH",
+     "CCY": "GBP"
+    },
+    {
+     "COUNTRY": "JO",
+     "COUNTRY_DESC": "JORDAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "KZ",
+     "COUNTRY_DESC": "KAZAKHSTAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "KE",
+     "COUNTRY_DESC": "KENYA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "KI",
+     "COUNTRY_DESC": "KIRIBATI",
+     "REGION": "TH",
+     "CCY": "AUD"
+    },
+    {
+     "COUNTRY": "KP",
+     "COUNTRY_DESC": "NORTH KOREA",
+     "REGION": "TH",
+     "CCY": "KPW"
+    },
+    {
+     "COUNTRY": "XK",
+     "COUNTRY_DESC": "KOSOVO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "KW",
+     "COUNTRY_DESC": "KUWAIT",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "KG",
+     "COUNTRY_DESC": "KYRGYZSTAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "LA",
+     "COUNTRY_DESC": "LAOS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "LV",
+     "COUNTRY_DESC": "LATVIA",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "LB",
+     "COUNTRY_DESC": "LEBANON",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "LS",
+     "COUNTRY_DESC": "LESOTHO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "LR",
+     "COUNTRY_DESC": "LIBERIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "LY",
+     "COUNTRY_DESC": "LIBYA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "LI",
+     "COUNTRY_DESC": "LIECHTENSTEIN",
+     "REGION": "TH",
+     "CCY": "CHF"
+    },
+    {
+     "COUNTRY": "LT",
+     "COUNTRY_DESC": "LITHUANIA",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "LU",
+     "COUNTRY_DESC": "LUXEMBOURG",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "MO",
+     "COUNTRY_DESC": "MACAO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MK",
+     "COUNTRY_DESC": "MACEDONIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MG",
+     "COUNTRY_DESC": "MADAGASCAR",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MW",
+     "COUNTRY_DESC": "MALAWI",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MY",
+     "COUNTRY_DESC": "MALAYSIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MV",
+     "COUNTRY_DESC": "MALDIVES",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "ML",
+     "COUNTRY_DESC": "MALI",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MT",
+     "COUNTRY_DESC": "MALTA",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "MH",
+     "COUNTRY_DESC": "MARSHALL ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MQ",
+     "COUNTRY_DESC": "MARTINIQUE",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "MR",
+     "COUNTRY_DESC": "MAURITANIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MU",
+     "COUNTRY_DESC": "MAURITIUS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "YT",
+     "COUNTRY_DESC": "MAYOTTE",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "MX",
+     "COUNTRY_DESC": "MEXICO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "FM",
+     "COUNTRY_DESC": "MICRONESIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MD",
+     "COUNTRY_DESC": "MOLDOVA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MC",
+     "COUNTRY_DESC": "MONACO",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "MN",
+     "COUNTRY_DESC": "MONGOLIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "ME",
+     "COUNTRY_DESC": "MONTENEGRO",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "MS",
+     "COUNTRY_DESC": "MONTSERRAT",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MA",
+     "COUNTRY_DESC": "MOROCCO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MZ",
+     "COUNTRY_DESC": "MOZAMBIQUE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MM",
+     "COUNTRY_DESC": "MYANMAR",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NA",
+     "COUNTRY_DESC": "NAMIBIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NR",
+     "COUNTRY_DESC": "NAURU",
+     "REGION": "TH",
+     "CCY": "AUD"
+    },
+    {
+     "COUNTRY": "NP",
+     "COUNTRY_DESC": "NEPAL",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NL",
+     "COUNTRY_DESC": "NETHERLANDS",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "NC",
+     "COUNTRY_DESC": "NEW CALEDONIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NZ",
+     "COUNTRY_DESC": "NEW ZEALAND",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NI",
+     "COUNTRY_DESC": "NICARAGUA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NE",
+     "COUNTRY_DESC": "NIGER",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NG",
+     "COUNTRY_DESC": "NIGERIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NU",
+     "COUNTRY_DESC": "NIUE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NF",
+     "COUNTRY_DESC": "NORFOLK ISLAND",
+     "REGION": "TH",
+     "CCY": "AUD"
+    },
+    {
+     "COUNTRY": "MP",
+     "COUNTRY_DESC": "NORTHERN MARIANA ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "NO",
+     "COUNTRY_DESC": "NORWAY",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "OM",
+     "COUNTRY_DESC": "OMAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PK",
+     "COUNTRY_DESC": "PAKISTAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PW",
+     "COUNTRY_DESC": "PALAU",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PS",
+     "COUNTRY_DESC": "PALESTINE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PA",
+     "COUNTRY_DESC": "PANAMA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PG",
+     "COUNTRY_DESC": "PAPUA NEW GUINEA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PY",
+     "COUNTRY_DESC": "PARAGUAY",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PE",
+     "COUNTRY_DESC": "PERU",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PH",
+     "COUNTRY_DESC": "PHILIPPINES",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PN",
+     "COUNTRY_DESC": "PITCAIRN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PL",
+     "COUNTRY_DESC": "POLAND",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "PT",
+     "COUNTRY_DESC": "PORTUGAL",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "PR",
+     "COUNTRY_DESC": "PUERTO RICO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "QA",
+     "COUNTRY_DESC": "QATAR",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "RE",
+     "COUNTRY_DESC": "REUNION",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "RO",
+     "COUNTRY_DESC": "ROMANIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "RU",
+     "COUNTRY_DESC": "RUSSIAN FEDERATION",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "RW",
+     "COUNTRY_DESC": "RWANDA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "BL",
+     "COUNTRY_DESC": "SAINT BARTHELEMY",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SH",
+     "COUNTRY_DESC": "SAINT HELENA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "KN",
+     "COUNTRY_DESC": "SAINT KITTS AND NEVIS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "LC",
+     "COUNTRY_DESC": "SAINT LUCIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "MF",
+     "COUNTRY_DESC": "SAINT MARTIN",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "PM",
+     "COUNTRY_DESC": "SAINT PIERRE AND MIQUELON",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "VC",
+     "COUNTRY_DESC": "SAINT VINCENT-THE GRENADINES",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "WS",
+     "COUNTRY_DESC": "SAMOA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SM",
+     "COUNTRY_DESC": "SAN MARINO",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "ST",
+     "COUNTRY_DESC": "SAO TOME AND PRINCIPE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SA",
+     "COUNTRY_DESC": "SAUDI ARABIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SN",
+     "COUNTRY_DESC": "SENEGAL",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "RS",
+     "COUNTRY_DESC": "SERBIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SC",
+     "COUNTRY_DESC": "SEYCHELLES",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "GS",
+     "COUNTRY_DESC": "SG SSI",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SL",
+     "COUNTRY_DESC": "SIERRA LEONE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SX",
+     "COUNTRY_DESC": "SINT MAARTEN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SK",
+     "COUNTRY_DESC": "SLOVAKIA",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "SI",
+     "COUNTRY_DESC": "SLOVENIA",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "SB",
+     "COUNTRY_DESC": "SOLOMON ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SO",
+     "COUNTRY_DESC": "SOMALIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "ZA",
+     "COUNTRY_DESC": "SOUTH AFRICA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SS",
+     "COUNTRY_DESC": "SOUTH SUDAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "ES",
+     "COUNTRY_DESC": "SPAIN",
+     "REGION": "TH",
+     "CCY": "EUR"
+    },
+    {
+     "COUNTRY": "LK",
+     "COUNTRY_DESC": "SRI LANKA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SD",
+     "COUNTRY_DESC": "SUDAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SR",
+     "COUNTRY_DESC": "SURINAME",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SJ",
+     "COUNTRY_DESC": "SVALBARD AND JAN MAYEN ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SZ",
+     "COUNTRY_DESC": "SWAZILAND",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "SE",
+     "COUNTRY_DESC": "SWEDEN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "CH",
+     "COUNTRY_DESC": "SWITZERLAND",
+     "REGION": "TH",
+     "CCY": "CHF"
+    },
+    {
+     "COUNTRY": "SY",
+     "COUNTRY_DESC": "SYRIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TW",
+     "COUNTRY_DESC": "TAIWAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TJ",
+     "COUNTRY_DESC": "TAJIKISTAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TZ",
+     "COUNTRY_DESC": "TANZANIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TL",
+     "COUNTRY_DESC": "TIMOR-LESTE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TG",
+     "COUNTRY_DESC": "TOGO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TK",
+     "COUNTRY_DESC": "TOKELAU",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TO",
+     "COUNTRY_DESC": "TONGA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TT",
+     "COUNTRY_DESC": "TRINIDAD AND TOBAGO",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TN",
+     "COUNTRY_DESC": "TUNISIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TR",
+     "COUNTRY_DESC": "TURKEY",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TM",
+     "COUNTRY_DESC": "TURKMENISTAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TC",
+     "COUNTRY_DESC": "TURKS AND CAICOS ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "TV",
+     "COUNTRY_DESC": "TUVALU",
+     "REGION": "TH",
+     "CCY": "AUD"
+    },
+    {
+     "COUNTRY": "UG",
+     "COUNTRY_DESC": "UGANDA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "UA",
+     "COUNTRY_DESC": "UKRAINE",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "AE",
+     "COUNTRY_DESC": "UNITED ARAB EMIRATES",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "UY",
+     "COUNTRY_DESC": "URUGUAY",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "UM",
+     "COUNTRY_DESC": "US MINOR OUTLAYING ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "UZ",
+     "COUNTRY_DESC": "UZBEKISTAN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "VU",
+     "COUNTRY_DESC": "VANUATU",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "VE",
+     "COUNTRY_DESC": "VENEZUELA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "VG",
+     "COUNTRY_DESC": "VIRGIN ISLANDS BRITISH",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "VI",
+     "COUNTRY_DESC": "VIRGIN ISLANDS US",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "WF",
+     "COUNTRY_DESC": "WALLIS AND FUTUNA ISLANDS",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "EH",
+     "COUNTRY_DESC": "WESTERN SAHARA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "YE",
+     "COUNTRY_DESC": "YEMEN",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "ZM",
+     "COUNTRY_DESC": "ZAMBIA",
+     "REGION": "TH",
+     "CCY": "USD"
+    },
+    {
+     "COUNTRY": "ZW",
+     "COUNTRY_DESC": "ZIMBABWE",
+     "REGION": "TH",
+     "CCY": "USD"
+    }
+   ]

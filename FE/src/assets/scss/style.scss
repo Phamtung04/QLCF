@@ -1,0 +1,502 @@
+// color variants
+@import '@fontsource/be-vietnam-pro/100.css';
+@import '@fontsource/be-vietnam-pro/200.css';
+@import '@fontsource/be-vietnam-pro/300.css';
+@import '@fontsource/be-vietnam-pro/400.css';
+@import '@fontsource/be-vietnam-pro/500.css';
+@import '@fontsource/be-vietnam-pro/600.css';
+@import '@fontsource/be-vietnam-pro/700.css';
+@import '@fontsource/be-vietnam-pro/800.css';
+@import '@fontsource/be-vietnam-pro/900.css';
+@import '@fontsource/be-vietnam-pro/100-italic.css';
+@import '@fontsource/be-vietnam-pro/200-italic.css';
+@import '@fontsource/be-vietnam-pro/300-italic.css';
+@import '@fontsource/be-vietnam-pro/400-italic.css';
+@import '@fontsource/be-vietnam-pro/500-italic.css';
+@import '@fontsource/be-vietnam-pro/600-italic.css';
+@import '@fontsource/be-vietnam-pro/700-italic.css';
+@import '@fontsource/be-vietnam-pro/800-italic.css';
+@import '@fontsource/be-vietnam-pro/900-italic.css';
+@import 'themes-vars.module.scss';
+// third-party
+@import '~react-perfect-scrollbar/dist/css/styles.css';
+@import '~swiper/swiper.min.css';
+@import '~swiper/modules/navigation/navigation.min.css';
+@import '~swiper/modules/pagination/pagination.min.css';
+@import '~swiper/modules/zoom/zoom.min.css';
+@import 'react-toastify/dist/ReactToastify.min.css';
+@import '@tabler/icons/iconfont/tabler-icons.min.css';
+@import '~text-security/text-security.css';
+
+.swal2-container.swal2-backdrop-show,
+.swal2-container.swal2-noanimation {
+    z-index: 1000000000000000000 !important;
+}
+
+.swal2-title {
+    line-height: 35px;
+}
+
+.swal2-container {
+    z-index: 1000000000000000000 !important;
+}
+
+// ==============================|| PERFECT SCROLLBAR ||============================== //
+.scrollbar-container {
+    .ps__rail-y {
+        &:hover > .ps__thumb-y,
+        &:focus > .ps__thumb-y,
+        &.ps--clicking .ps__thumb-y {
+            background-color: $grey500;
+            width: 5px;
+        }
+    }
+
+    .ps__thumb-y {
+        background-color: $grey500;
+        border-radius: 6px;
+        width: 5px;
+        right: 0;
+    }
+}
+
+.scrollbar-container.ps,
+.scrollbar-container > .ps {
+    &.ps--active-y > .ps__rail-y {
+        width: 5px;
+        background-color: transparent !important;
+        z-index: 999;
+
+        &:hover,
+        &.ps--clicking {
+            width: 5px;
+            background-color: transparent;
+        }
+    }
+
+    &.ps--scrolling-y > .ps__rail-y,
+    &.ps--scrolling-x > .ps__rail-x {
+        opacity: 0.4;
+        background-color: transparent;
+    }
+}
+
+// ==============================|| ANIMATION KEYFRAMES ||============================== //
+@keyframes wings {
+    50% {
+        transform: translateY(-40px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes bounce {
+    0%,
+    20%,
+    53%,
+    to {
+        animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+        transform: translateZ(0);
+    }
+
+    40%,
+    43% {
+        animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+        transform: translate3d(0, -5px, 0);
+    }
+
+    70% {
+        animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+        transform: translate3d(0, -7px, 0);
+    }
+
+    80% {
+        transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+        transform: translateZ(0);
+    }
+
+    90% {
+        transform: translate3d(0, -2px, 0);
+    }
+}
+
+@keyframes slideY {
+    0%,
+    50%,
+    100% {
+        transform: translateY(0px);
+    }
+
+    25% {
+        transform: translateY(-10px);
+    }
+
+    75% {
+        transform: translateY(10px);
+    }
+}
+
+@keyframes slideX {
+    0%,
+    50%,
+    100% {
+        transform: translateX(0px);
+    }
+
+    25% {
+        transform: translateX(-10px);
+    }
+
+    75% {
+        transform: translateX(10px);
+    }
+}
+
+.ring-animation {
+    transition: all 0.3s ease-in-out 0s;
+    animation: ring-animation 3s infinite;
+}
+
+@keyframes ring-animation {
+    0% {
+        transform: translate3d(0em, 0, 0) scale(0.5);
+    }
+
+    2% {
+        transform: translate3d(0.1em, 0, 0) scale(0.8);
+    }
+
+    4% {
+        transform: translate3d(-0.1em, 0, 0) scale(0.9);
+    }
+
+    6% {
+        transform: translate3d(0.1em, 0, 0) scale(1);
+    }
+
+    8% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.01);
+    }
+
+    10% {
+        transform: translate3d(0.1em, 0, 0) scale(1.02);
+    }
+
+    12% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.03);
+    }
+
+    14% {
+        transform: translate3d(0.1em, 0, 0) scale(1.04);
+    }
+
+    16% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.05);
+    }
+
+    18% {
+        transform: translate3d(0.1em, 0, 0) scale(1.06);
+    }
+
+    20% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.07);
+    }
+
+    22% {
+        transform: translate3d(0.1em, 0, 0) scale(1.08);
+    }
+
+    24% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.09);
+    }
+
+    26% {
+        transform: translate3d(0.1em, 0, 0) scale(1.01);
+    }
+
+    28% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.011);
+    }
+
+    30% {
+        transform: translate3d(0.1em, 0, 0) scale(1.012);
+    }
+
+    32% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.013);
+    }
+
+    34% {
+        transform: translate3d(0.1em, 0, 0) scale(1.014);
+    }
+
+    36% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.015);
+    }
+
+    38% {
+        transform: translate3d(0.1em, 0, 0) scale(1.016);
+    }
+
+    40% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.017);
+    }
+
+    42% {
+        transform: translate3d(0.1em, 0, 0) scale(1.018);
+    }
+
+    44% {
+        transform: translate3d(-0.1em, 0, 0) scale(1.019);
+    }
+
+    46% {
+        transform: translate3d(0em, 0, 0) scale(1);
+    }
+}
+
+.show-more {
+    white-space: pre-line;
+}
+
+.slick-thumb {
+    .slick-active {
+        img {
+            border: 2px solid #ffc20e;
+            border-radius: 8px;
+        }
+    }
+    li {
+        min-width: 50px;
+        border-radius: 8px;
+        // width: 80px;
+    }
+}
+
+.zIndex10 {
+    z-index: 10 !important;
+}
+
+.w3-green {
+    color: #fff !important;
+    background-color: #4caf50 !important;
+    text-align: center !important;
+    border-radius: 4px;
+}
+
+.w3-light-silver {
+    color: #333 !important;
+    background-color: #d3d8de !important;
+    text-align: center !important;
+    border-radius: 4px;
+}
+
+.w3-red {
+    color: #fff !important;
+    background-color: #f44336 !important;
+    text-align: center !important;
+    border-radius: 4px;
+}
+
+.w3-orange {
+    color: #333 !important;
+    background-color: #ff9800 !important;
+    text-align: center !important;
+    border-radius: 4px;
+}
+
+.w3-yellow {
+    color: #333 !important;
+    background-color: #ff9800 !important;
+    text-align: center !important;
+    border-radius: 4px;
+}
+
+.MuiTablePagination-toolbar {
+    padding: 0 !important;
+}
+
+.MuiTypography-root {
+    word-break: break-word;
+}
+
+.scan {
+    img {
+        height: 500px;
+        width: auto;
+        position: relative;
+    }
+}
+
+.scan.scanning::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 36px;
+    background-image: linear-gradient(to bottom, rgba(170, 184, 190, 0), rgba(170, 184, 190, 0.8));
+    animation: scanning 2s linear infinite;
+}
+
+@keyframes scanning {
+    100% {
+        transform: translate(0%, 500px);
+    }
+}
+
+.face-scan {
+    img {
+        width: auto;
+        position: relative;
+    }
+}
+
+.face-scan.scanning::before {
+    content: '';
+    position: absolute;
+    top: 13%;
+    bottom: 0;
+    width: 40%;
+    height: 0;
+    background: #fff;
+    box-shadow: 0 0 70px 20px #fff;
+    clip-path: inset(0);
+    margin-left: auto;
+    margin-right: auto;
+    animation: x 1s ease-in-out infinite alternate, y 2s ease-in-out infinite;
+}
+
+@keyframes x {
+    to {
+        transform: translateY(-100%);
+        top: 87%;
+    }
+}
+
+@keyframes y {
+    33% {
+        clip-path: inset(-200px 0 0 0);
+    }
+
+    50% {
+        clip-path: inset(0 0 0 0);
+    }
+
+    83% {
+        clip-path: inset(0 0 -200px 0);
+    }
+}
+
+.box-header {
+    // border: 1px solid rgba($color: #B6BEC8, $alpha: 0.2);
+    border-radius: 8px;
+}
+
+.progress {
+    padding: 16px;
+    display: flex;
+    align-items: center;
+
+    &-bar {
+        background: #ffffff;
+        border-radius: 33px;
+        width: 100%;
+
+        .MuiLinearProgress-bar {
+            background: #ff5251;
+            border-radius: 33px;
+        }
+    }
+}
+
+.ripple-animation {
+    border-radius: 50%;
+    animation: ripple-animation 2s linear infinite;
+}
+
+.ripple-animation::before {
+    animation-delay: 0.5s;
+}
+
+.ripple-animation::after {
+    animation-delay: 1s;
+}
+
+@keyframes ripple-animation {
+    0% {
+        box-shadow: 0 0 0 0.7rem rgba(0, 0, 0, 0.2);
+    }
+    100% {
+        box-shadow: 0 0 0 2rem rgba(255, 255, 255, 0);
+    }
+}
+
+@-webkit-keyframes rotating-animation /* Safari and Chrome */ {
+    from {
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes rotating-animation {
+    from {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+.rotating-animation {
+    -webkit-animation: rotating-animation 2s linear infinite;
+    -moz-animation: rotating-animation 2s linear infinite;
+    -ms-animation: rotating-animation 2s linear infinite;
+    -o-animation: rotating-animation 2s linear infinite;
+    animation: rotating-animation 2s linear infinite;
+}
+
+.clientImagePagination {
+    margin-top: 20px;
+    position: relative;
+}
+
+.headerDataGridCustom {
+    white-space: break-spaces !important;
+    line-height: normal !important;
+}
+.white-space--break-spaces {
+    white-space: break-spaces !important;
+}
+
+.my-password-field {
+    font-family: text-security-disc;
+    /* Use -webkit-text-security if the browser supports it */
+    -webkit-text-security: disc;
+}
